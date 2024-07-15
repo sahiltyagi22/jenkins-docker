@@ -1,0 +1,23 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahiltyagi22/jenkins-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahiltyagi22/jenkins-docker/issues"
+  },
+  "homepage": "https://github.com/sahiltyagi22/jenkins-docker#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
